@@ -17,6 +17,6 @@ conda install mdtraj mdanalysis matplotlib networkx plotly pytorch numpy -c cond
 ```
 
 ## Inputs Generation
-KinTree requires contact map and interaction information. Six types of interactions are calculated: hydrogen bonds, salt bridges, $\pi$-$\pi$ stacking, T-shape interactions, cation-$\pi$ interactions, and chalcogen interactions. The calculation of the interactions depends on defined atom masks. We have provided atom masks suitable for common MD engines, but for ligands or DNA, user has to define their own atom masks. We have provides various of functions to validate and update atom masks. Please see the example notebooks for more detailed information.
+KinTree requires contact map and interaction information. Six types of interactions are calculated: hydrogen bonds, salt bridges, $\pi$ - $\pi$ stacking, T-shape interactions, cation - $\pi$ interactions, and chalcogen interactions. The calculation of the interactions depends on defined atom masks. We have provided atom masks suitable for common MD engines, but for ligands or DNA, user has to define their own atom masks. We have provides various of functions to validate and update atom masks. Please see the example notebooks for more detailed information.
 
 ## Preprocessing
