@@ -1,5 +1,5 @@
 # KinTree-Kinetic-Interaction-Tree-
-KinTree is a decision-tree-like kineti model that can automatically identify kinetically essnetial interactions from protein simulation data. The repository provides all-in-one guidance for the usage of the model, including installation, inputs generation, preprocessing, model training, model validation, and visualization. For detailed introduction of the methodology and citation, please refer to \
+KinTree is a decision-tree-like kinetic model that can automatically identify kinetically essnetial interactions from protein simulation data. The repository provides all-in-one guidance for the usage of the model, including installation, inputs generation, preprocessing, model training, model validation, and visualization. For detailed introduction of the methodology and citation, please refer to \
 {M. Xu et al., XXXXX}
 <img width="1963" height="1033" alt="图片1" src="https://github.com/user-attachments/assets/03f3d521-5253-4426-8efa-3671e4cb5c4f" />
 
